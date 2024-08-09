@@ -1,5 +1,5 @@
 <div align="center">
-  <div><a href="https://www.hackerrank.com/z_eduardofaria">Hacker Rank</a></div>
+  <div><a href="https://www.hackerrank.com/profile/0xEduardoFaria">Hacker Rank</a></div>
   <img src="./assets/cover.png" />
 </div>
 
