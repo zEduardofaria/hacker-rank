@@ -1,5 +1,5 @@
 <div align="center">
-  <div><a target="_blank" href="https://www.hackerrank.com/profile/0xEduardoFaria">Hacker Rank</a></div>
+  <div><a href="https://www.hackerrank.com/profile/0xEduardoFaria" target="_blank">Hacker Rank</a></div>
   <img src="./assets/cover.png" />
 </div>
 
